@@ -1,0 +1,64 @@
+body{
+    background: url(https://images.ctfassets.net/cnu0m8re1exe/6y85yBIxrIAGWM3rRzSI3Z/3a3a9ab9933d50d75d43129921ac540c/CatPetting_edited-2.jpg?w=650&h=433&fit=fill);
+    background-size: cover;
+    background-position: top;
+}
+
+html{
+	height: 100%;
+}
+
+.navbar{
+	border-radius: 0px;
+}
+
+.col-lg-12{
+	text-align: center;
+}
+
+#brand{
+	margin-top: 10%;
+}
+
+hr{
+	width: 30%;
+	color: black;
+}
+
+h2{
+	font-size: 5em;
+	color: #cec827;
+	text-shadow: 0px 6px 9px black;
+}
+p{
+	font-size: 2em;
+	color: #fdfbc9;
+	text-shadow: 0px 0px 7px black;
+}
+.navbar-inverse{
+	background: #242d28;
+}
+.navbar-inverse .navbar-nav>li>a{
+	color: #a9b175;
+}
+.navbar-inverse .navbar-nav>li>a:hover {
+	color: #ecf1cf;
+}
+.btn-info{
+	background-color: #bbd6108c;
+	border-color: black;
+}
+.btn-info:hover {
+	background-color: #bbd610;
+	border-color: black;
+}
+.navbar-inverse .navbar-brand{
+	color: #dddec9;
+}
+.navbar-inverse .navbar-nav>.active>a{
+	color: #a9b17599;
+	background: 101010;
+}.navbar-inverse .navbar-nav>.active>a:hover {
+	color: #a9b17599;
+	background: 101010;
+}
